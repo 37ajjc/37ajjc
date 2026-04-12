@@ -1,0 +1,522 @@
+{
+  "todos": {
+    "ajc-leben": [
+      {
+        "id": "a1",
+        "text": "Handy-Zeitschloss-Box kaufen (~20€)",
+        "pri": "hoch",
+        "wk": "Woche 1",
+        "done": false
+      },
+      {
+        "id": "a2",
+        "text": "Tagesplan ausdrucken + an Schreibtisch hängen",
+        "pri": "hoch",
+        "wk": "Woche 1",
+        "done": false
+      },
+      {
+        "id": "a3",
+        "text": "Accountability-Partner festlegen (Tyreese o.a.)",
+        "pri": "hoch",
+        "wk": "Woche 1",
+        "done": false
+      },
+      {
+        "id": "a4",
+        "text": "Kalt duschen: täglich als erste Handlung",
+        "pri": "mittel",
+        "wk": "Daily",
+        "done": false
+      },
+      {
+        "id": "a5",
+        "text": "Sleep Maxing: vor 22:30 schlafen, 8h Ziel",
+        "pri": "mittel",
+        "wk": "Daily",
+        "done": false
+      },
+      {
+        "id": "a6",
+        "text": "Kleidung jeden Abend rauslegen",
+        "pri": "mittel",
+        "wk": "Daily",
+        "done": false
+      },
+      {
+        "id": "a7",
+        "text": "Meal Prep Sonntag einführen",
+        "pri": "mittel",
+        "wk": "Woche 1",
+        "done": false
+      },
+      {
+        "id": "a8",
+        "text": "Dopamin-Reset: Max 1h Unterhaltung nach Arbeit",
+        "pri": "niedrig",
+        "wk": "Daily",
+        "done": false
+      },
+      {
+        "id": "a9",
+        "text": "Kein TikTok/YouTube außerhalb geplanter Zeiten",
+        "pri": "niedrig",
+        "wk": "Daily",
+        "done": false
+      }
+    ],
+    "personal-brand": [
+      {
+        "id": "p1",
+        "text": "1. Video drehen: Building in Public (Pillar 1)",
+        "pri": "hoch",
+        "wk": "Woche 3",
+        "done": false
+      },
+      {
+        "id": "p2",
+        "text": "Tägliche Engagement-Routine starten (30 Min)",
+        "pri": "hoch",
+        "wk": "Woche 3",
+        "done": false
+      },
+      {
+        "id": "p3",
+        "text": "Content-Kalender für nächsten Monat erstellen",
+        "pri": "hoch",
+        "wk": "Woche 5",
+        "done": false
+      },
+      {
+        "id": "p4",
+        "text": "2. Video: Educational (Pillar 2)",
+        "pri": "mittel",
+        "wk": "Woche 5",
+        "done": false
+      },
+      {
+        "id": "p5",
+        "text": "3. Video: Lifestyle / Identity (Pillar 3)",
+        "pri": "mittel",
+        "wk": "Woche 5",
+        "done": false
+      },
+      {
+        "id": "p6",
+        "text": "Content Repurposing: 1 Video → 5 Stücke",
+        "pri": "mittel",
+        "wk": "Woche 3",
+        "done": false
+      },
+      {
+        "id": "p7",
+        "text": "Hook-Formeln: alle 4 Typen rotieren",
+        "pri": "mittel",
+        "wk": "Ongoing",
+        "done": false
+      },
+      {
+        "id": "p8",
+        "text": "YouTube-SEO: Titel, Description, Tags",
+        "pri": "niedrig",
+        "wk": "Woche 6",
+        "done": false
+      },
+      {
+        "id": "p9",
+        "text": "Video Master Checkliste bei jedem Dreh nutzen",
+        "pri": "niedrig",
+        "wk": "Ongoing",
+        "done": false
+      }
+    ],
+    "deus-amor": [
+      {
+        "id": "d1",
+        "text": "Email-Tool einrichten (Klaviyo empfohlen)",
+        "pri": "hoch",
+        "wk": "Woche 1",
+        "done": false
+      },
+      {
+        "id": "d2",
+        "text": "Lead Magnet: Deus Amor Manifesto PDF (3–5 S.)",
+        "pri": "hoch",
+        "wk": "Woche 2",
+        "done": false
+      },
+      {
+        "id": "d3",
+        "text": "Email-Signup auf Website (Popup + Inline)",
+        "pri": "hoch",
+        "wk": "Woche 2",
+        "done": false
+      },
+      {
+        "id": "d4",
+        "text": "Welcome Sequence schreiben (5 Emails, 12 Tage)",
+        "pri": "hoch",
+        "wk": "Woche 2",
+        "done": false
+      },
+      {
+        "id": "d5",
+        "text": "CTA → \"Werde Teil der Story\" (nicht Newsletter)",
+        "pri": "hoch",
+        "wk": "Woche 2",
+        "done": false
+      },
+      {
+        "id": "d6",
+        "text": "Website Above-the-Fold: Headline, CTA, Visual",
+        "pri": "mittel",
+        "wk": "Woche 4",
+        "done": false
+      },
+      {
+        "id": "d7",
+        "text": "Drop-Email-Sequence schreiben (5 Emails)",
+        "pri": "mittel",
+        "wk": "Woche 4",
+        "done": false
+      },
+      {
+        "id": "d8",
+        "text": "UTM-Links für alle Social Bio-Links",
+        "pri": "mittel",
+        "wk": "Woche 3",
+        "done": false
+      },
+      {
+        "id": "d9",
+        "text": "Nächsten Drop planen: Datum, Teaser, Produkte",
+        "pri": "mittel",
+        "wk": "Woche 4",
+        "done": false
+      },
+      {
+        "id": "d10",
+        "text": "Heatmap installieren (Hotjar Free)",
+        "pri": "niedrig",
+        "wk": "Woche 4",
+        "done": false
+      },
+      {
+        "id": "d11",
+        "text": "Re-Engagement Sequence schreiben (3 Emails)",
+        "pri": "niedrig",
+        "wk": "Woche 5",
+        "done": false
+      },
+      {
+        "id": "d12",
+        "text": "Blog-Posts: christliche Streetwear SEO-Keywords",
+        "pri": "niedrig",
+        "wk": "Woche 6",
+        "done": false
+      }
+    ]
+  },
+  "habits": {
+    "m": {},
+    "e": {}
+  },
+  "journal": {},
+  "schedule": {
+    "0": {
+      "name": "SONNTAG",
+      "focus": "Ruhetag — Glaube, Familie & Planung",
+      "items": [
+        {
+          "t": "Morgen",
+          "task": "Beten + Bibel + Ruhe",
+          "dw": false
+        },
+        {
+          "t": "Mittag",
+          "task": "Familie / Erholung",
+          "dw": false
+        },
+        {
+          "t": "Max 1h",
+          "task": "Wochenplanung für Montag",
+          "dw": false
+        },
+        {
+          "t": "Nachmittag",
+          "task": "Meal Prep für die Woche",
+          "dw": false
+        },
+        {
+          "t": "21:00",
+          "task": "Früh schlafen (8h Ziel)",
+          "dw": false
+        }
+      ]
+    },
+    "1": {
+      "name": "MONTAG",
+      "focus": "Job + Gym — 1h Deus Amor Abend",
+      "items": [
+        {
+          "t": "06:45",
+          "task": "Morgenroutine",
+          "dw": false
+        },
+        {
+          "t": "08:30–17:00",
+          "task": "Job",
+          "dw": false
+        },
+        {
+          "t": "17:00–18:30",
+          "task": "Gym",
+          "dw": false
+        },
+        {
+          "t": "19:00–19:30",
+          "task": "Abendessen",
+          "dw": false
+        },
+        {
+          "t": "19:30–20:30",
+          "task": "Deus Amor Deep Work",
+          "dw": true
+        },
+        {
+          "t": "21:30",
+          "task": "Abendroutine",
+          "dw": false
+        }
+      ]
+    },
+    "2": {
+      "name": "DIENSTAG",
+      "focus": "Deus Amor Power-Abend — 3h15 Deep Work",
+      "items": [
+        {
+          "t": "06:45",
+          "task": "Morgenroutine",
+          "dw": false
+        },
+        {
+          "t": "08:30–17:00",
+          "task": "Job",
+          "dw": false
+        },
+        {
+          "t": "17:00–18:00",
+          "task": "Dekompression + Essen",
+          "dw": false
+        },
+        {
+          "t": "18:00–21:15",
+          "task": "DEUS AMOR DEEP WORK",
+          "dw": true
+        },
+        {
+          "t": "21:15–21:30",
+          "task": "Community Check (15 Min)",
+          "dw": false
+        },
+        {
+          "t": "21:30",
+          "task": "Abendroutine",
+          "dw": false
+        }
+      ]
+    },
+    "3": {
+      "name": "MITTWOCH",
+      "focus": "Job + Gym — Vorbereitung Donnerstag",
+      "items": [
+        {
+          "t": "06:45",
+          "task": "Morgenroutine",
+          "dw": false
+        },
+        {
+          "t": "08:30–17:00",
+          "task": "Job",
+          "dw": false
+        },
+        {
+          "t": "17:00–18:30",
+          "task": "Gym",
+          "dw": false
+        },
+        {
+          "t": "19:00–19:30",
+          "task": "Abendessen",
+          "dw": false
+        },
+        {
+          "t": "19:30–20:30",
+          "task": "Deus Amor Deep Work",
+          "dw": true
+        },
+        {
+          "t": "21:30",
+          "task": "Abendroutine",
+          "dw": false
+        }
+      ]
+    },
+    "4": {
+      "name": "DONNERSTAG",
+      "focus": "Langer Job — 2h15 Deus Amor Abend",
+      "items": [
+        {
+          "t": "06:45",
+          "task": "Morgenroutine",
+          "dw": false
+        },
+        {
+          "t": "08:30–18:10",
+          "task": "Job (langer Tag)",
+          "dw": false
+        },
+        {
+          "t": "18:10–19:00",
+          "task": "Dekompression + Essen",
+          "dw": false
+        },
+        {
+          "t": "19:00–21:15",
+          "task": "DEUS AMOR DEEP WORK",
+          "dw": true
+        },
+        {
+          "t": "21:15–21:30",
+          "task": "Community Check (15 Min)",
+          "dw": false
+        },
+        {
+          "t": "21:30",
+          "task": "Abendroutine",
+          "dw": false
+        }
+      ]
+    },
+    "5": {
+      "name": "FREITAG",
+      "focus": "Power-Day — Fast 5h produktive Zeit",
+      "items": [
+        {
+          "t": "06:45",
+          "task": "Morgenroutine",
+          "dw": false
+        },
+        {
+          "t": "08:30–13:00",
+          "task": "Job (Früh-Feierabend!)",
+          "dw": false
+        },
+        {
+          "t": "13:00–14:30",
+          "task": "Gym",
+          "dw": false
+        },
+        {
+          "t": "14:30–15:00",
+          "task": "Mittagessen",
+          "dw": false
+        },
+        {
+          "t": "15:00–18:45",
+          "task": "DEUS AMOR DEEP WORK",
+          "dw": true
+        },
+        {
+          "t": "18:45–19:45",
+          "task": "Personal Brand Block",
+          "dw": false
+        },
+        {
+          "t": "21:30",
+          "task": "Abendroutine",
+          "dw": false
+        }
+      ]
+    },
+    "6": {
+      "name": "SAMSTAG",
+      "focus": "Hauptkampftag — 5h45 + Wochenreview",
+      "items": [
+        {
+          "t": "07:00",
+          "task": "Morgenroutine",
+          "dw": false
+        },
+        {
+          "t": "08:00–09:30",
+          "task": "Gym",
+          "dw": false
+        },
+        {
+          "t": "09:30–10:00",
+          "task": "Frühstück",
+          "dw": false
+        },
+        {
+          "t": "10:00–15:45",
+          "task": "DEUS AMOR DEEP WORK",
+          "dw": true
+        },
+        {
+          "t": "15:45–16:45",
+          "task": "Personal Brand Block",
+          "dw": false
+        },
+        {
+          "t": "16:45–17:15",
+          "task": "Wochenreview",
+          "dw": false
+        },
+        {
+          "t": "17:15",
+          "task": "Frei / Abend",
+          "dw": false
+        }
+      ]
+    }
+  },
+  "cycles": [
+    {
+      "id": 1,
+      "name": "Zyklus 1",
+      "start": "2026-04-07",
+      "weekOverride": "1"
+    }
+  ],
+  "bizData": {
+    "accounts": [
+      {
+        "name": "Deus Amor Store",
+        "platform": "TikTok",
+        "handle": "@deusamor.store",
+        "followers": 0,
+        "views": 0,
+        "likes": 0
+      },
+      {
+        "name": "Personal Brand",
+        "platform": "TikTok",
+        "handle": "@37ajjc",
+        "followers": 0,
+        "views": 0,
+        "likes": 0
+      }
+    ],
+    "kpis": {
+      "emailGrowth": 0,
+      "repeatBuyers": 0,
+      "revenuePerCustomer": 0,
+      "comments": 0
+    },
+    "recentVideos": [],
+    "aiInsight": ""
+  },
+  "boardCards": [],
+  "tracking": []
+}
